@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>simpleDemo</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>com.adobe.flexbuilder.flashbridge.flashprobuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>com.adobe.flexbuilder.flashbridge.flashpronature</nature>
+		<nature>com.adobe.flexbuilder.project.actionscriptnature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>[source path] src</name>
+			<type>2</type>
+			<locationURI>DOCUMENTS/in2ar/demos/src</locationURI>
+		</link>
+		<link>
+			<name>src-simpleDemo</name>
+			<type>2</type>
+			<location>D:/project/in2ar/demos</location>
+		</link>
+	</linkedResources>
+</projectDescription>
